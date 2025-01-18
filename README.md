@@ -1,3 +1,3 @@
 # first-repository
 this is my first git repository.
-author:Rafi Mahammad
+written by Rafi Mahammad
